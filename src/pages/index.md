@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 'This is a template, we''re working on the site '
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Coming Soon :)  Natalie'
 mainpitch:
   title: Why Kaldi
   description: >
