@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: 'This is a template, we''re working on the site '
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/thehelperslogotransparent.png
+heading: 'small things, big impacts'
 subheading: 'Coming Soon :)  Natalie'
 mainpitch:
   title: Why Kaldi
