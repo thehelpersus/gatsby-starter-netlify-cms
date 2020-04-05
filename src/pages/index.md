@@ -10,10 +10,9 @@ mainpitch:
     We love our community, so we're sewing today, not working on the website :) 
     Find natalie on facebook, or jenny on facebook for help
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  When things are bad, sometimes it's hard, or overwhelming to imagine ways of
+  making them better as individuals.  We believe that little changes can make
+  big impacts, if we can just find the little changes that need to be made.
 intro:
   blurbs:
     - image: /img/coffee.png
