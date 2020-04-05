@@ -1,14 +1,12 @@
 ---
 templateKey: blog-post
-title: The Helpers of Cheltenham Township PA
-date: 2017-04-04T14:04:00.000Z
+title: What We're Doing Today
+date: 2020-04-05T14:04:00.000Z
 description: >+
-  The CheltenHELPers are a volunteer group of your neighbors who saw a need and
-  decided to do something about it.  We are helping all members of our community
-  document their medical history in case of an emergency, and providing
-  home-made masks for our at-risk neighbors that need this additional bit of
-  protection.
-
+  We've distributed close to 200 masks to medical personnel, essential persons
+  and our at risk neighbors.  Today we cut more than 60 new masks to start
+  sewing, and are working on getting 3d printed face shields to medical workers
+  to, in part, address the supply shortages seen in local hospitals.
 
 
 featuredpost: false
@@ -18,5 +16,6 @@ tags:
   - cheltenham
   - homemade masks
 ---
-**While we're resource bound in this crisis, we'll be working to meet the needs of all on our community.  
-At no time will we be recording your medical information, we will only get paper forms to you to fill out or download yourself.**
+While we're resource-bound in this crisis, we'll be working to meet the needs of all on our community.  
+
+We will not, in any way be recording your medical information, we will only get paper forms to you to fill out or digital forms for you to download yourself.**
