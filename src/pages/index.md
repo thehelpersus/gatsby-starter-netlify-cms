@@ -25,12 +25,14 @@ intro:
 
         We also know that no visitors will be permitted to visit while you are
         in the hospital.  
-    - image: /img/coffee-gear.png
+    - image: /img/download-printer-png-image-97999-for-designing-projects.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        BE PREPARED: We realized that because we're in a crisis, many people
+        would not have access to printers to print out and fill out confusing
+        personal medical history forms before they are needed in an emergency. 
+        This is one change we can do!  We can design a simple form with expert
+        help, and get them to our neighbors to fill out and keep in the event
+        they need to go to the hospital.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
