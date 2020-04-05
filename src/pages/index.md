@@ -53,19 +53,21 @@ intro:
     who cannot sew, or afford to buy them for any reasons.  We can not only say
     we care, but show we care.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'We''re grateful for Mr. Rogers and are trying to honor him '
+  description: >-
+    Fred Rogers often told this story about when he was a boy and would see
+    scary things on the news: “My mother would say to me, ‘Look for the helpers.
+    You will always find people who are helping.’ To this day, especially in
+    times of disaster, I remember my mother’s words, and I am always comforted
+    by realizing that there are still so many helpers — so many caring people in
+    this world.”"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Our Helpers Logo
+    image: /img/thehelperslogoa.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Helpers
+    image: /img/human_activity-46-512.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: The Amazing Mr. Rogers
+    image: /img/fredrogers.webp
 ---
