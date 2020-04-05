@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What We're Doing Today
+title: What We're Doing This Weekend April 04-05.
 date: 2020-04-05T14:04:00.000Z
 description: >+
   We've distributed close to 200 masks to medical personnel, essential persons
