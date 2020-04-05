@@ -33,13 +33,13 @@ intro:
         This is one change we can do!  We can design a simple form with expert
         help, and get them to our neighbors to fill out and keep in the event
         they need to go to the hospital.
-    - image: /img/tutorials.png
+    - image: /img/mask-icon.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Another small thing:  We know that many people now need masks to go to
+        the grocery store or pharmacy, or even to work as essential personnel. 
+        N95 Medical Masks are reserved for medical workers.  We can make good
+        quality homemade masks and get them into the community at No Charge
+        because we realize so many of our neighbors have lost their jobs.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
