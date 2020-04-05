@@ -31,8 +31,8 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: parcel ready to go
+    image: /img/suef.jpg
   image3:
     alt: A Lot Of Elastic Cut For Masks
     image: /img/maskelastic.jpg
