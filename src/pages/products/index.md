@@ -36,15 +36,7 @@ main:
   image3:
     alt: A Lot Of Elastic Cut For Masks
     image: /img/maskelastic.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+testimonials: []
 full_image: /img/helpersbladesofgrass.jpg
 pricing:
   heading: Get Resources
