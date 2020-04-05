@@ -16,7 +16,7 @@ description: >-
   make living through a crisis for our community easier.
 intro:
   blurbs:
-    - image: /img/contract-icon-5.png
+    - image: /img/checklist-icon-checklist-icon-png-list-icon-7.png
       text: >-
         In listening to experts, we've learned that Emergency workers say you
         should fill out forms with your personal medical information right now
