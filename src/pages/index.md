@@ -12,10 +12,11 @@ mainpitch:
 description: >-
   When things are bad, sometimes it's hard, or overwhelming to imagine ways of
   making them better as individuals.  We believe that little changes can make
-  big impacts, if we can just find the little changes that need to be made.
+  big impacts, if we can just find the little changes that need to be made to
+  make living through a crisis for our community easier.
 intro:
   blurbs:
-    - image: /img/form-icon-55.png
+    - image: /img/contract-icon-5.png
       text: >-
         In listening to experts, we've learned that Emergency workers say you
         should fill out forms with your personal medical information right now
