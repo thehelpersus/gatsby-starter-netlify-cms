@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'This is a template, we''re working on the site '
-image: /img/greenbacksplash.jpg
+image: /img/helpersbladesofgrass.jpg
 heading: 'small things, big impacts'
 subheading: 'Coming Soon :)  Natalie'
 mainpitch:
