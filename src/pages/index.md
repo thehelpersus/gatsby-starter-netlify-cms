@@ -40,13 +40,10 @@ intro:
         N95 Medical Masks are reserved for medical workers.  We can make good
         quality homemade masks and get them into the community at No Charge
         because we realize so many of our neighbors have lost their jobs.
-    - image: /img/meeting-space.png
+    - image: /img/package.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We can not only say we care, but show we care - especially as so many
+        people are isolated and feeling lonely.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
