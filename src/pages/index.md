@@ -44,12 +44,14 @@ intro:
       text: >
         We can not only say we care, but show we care - especially as so many
         people are isolated and feeling lonely.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: What we offer our community
+  description: >-
+    We're a team of volunteers who can get blank medical history forms to
+    neighbors for them to fill out and keep a truly stressful emergency arises
+    and they (hopefully not) need to go to the Hospital to be treated for
+    COVID-19.  We can also provide excellent quality homemade masks to people
+    who cannot sew, or afford to buy them for any reasons.  We can not only say
+    we care, but show we care.
 main:
   heading: Great coffee with no compromises
   description: >
